@@ -1,5 +1,9 @@
 .env
-*.session
+*.session*
+*.session-journal
 downloads/
 __pycache__/
 .venv/
+.fuse_hidden*
+.DS_Store
+*.pyc
